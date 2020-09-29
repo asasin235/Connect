@@ -1,0 +1,3 @@
+.DS_Store
+node_modules/
+# just learning to ignore stuff buddy! for directory please use a slash else it will search for directory and files
